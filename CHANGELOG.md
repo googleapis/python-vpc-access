@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.2.1](https://www.github.com/googleapis/python-vpc-access/compare/v0.2.0...v0.2.1) (2021-07-21)
+
+
+### Bug Fixes
+
+* **deps:** pin 'google-{api,cloud}-core', 'google-auth' to allow 2.x versions ([#20](https://www.github.com/googleapis/python-vpc-access/issues/20)) ([46a4eaf](https://www.github.com/googleapis/python-vpc-access/commit/46a4eaf7814d69edb7b5ecb1767805088e3e82f9))
+
 ## [0.2.0](https://www.github.com/googleapis/python-vpc-access/compare/v0.1.0...v0.2.0) (2021-07-14)
 
 
