@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/googleapis/python-vpc-access/compare/v1.0.0...v1.0.1) (2021-09-24)
+
+
+### Bug Fixes
+
+* add 'dict' annotation type to 'request' ([be61638](https://www.github.com/googleapis/python-vpc-access/commit/be616386c0a9db4c49f8f319498411ab969542a3))
+
+
+### Documentation
+
+* migrate default branch from master to main ([#34](https://www.github.com/googleapis/python-vpc-access/issues/34)) ([7f5d990](https://www.github.com/googleapis/python-vpc-access/commit/7f5d99035c709cc67ed7ef61629936147bef0bac))
+
 ## [1.0.0](https://www.github.com/googleapis/python-vpc-access/compare/v0.2.1...v1.0.0) (2021-08-03)
 
 
