@@ -10,6 +10,6 @@
     "repo": "googleapis/python-vpc-access",
     "distribution_name": "google-cloud-vpc-access",
     "api_id": "vpcaccess.googleapis.com",
-    "default_version": "",
+    "default_version": "v1",
     "codeowner_team": ""
 }
