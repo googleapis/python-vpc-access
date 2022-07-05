@@ -2084,7 +2084,6 @@ def test_vpc_access_service_transport_auth_adc(transport_class):
     [
         transports.VpcAccessServiceGrpcTransport,
         transports.VpcAccessServiceGrpcAsyncIOTransport,
-        transports.VpcAccessServiceRestTransport,
     ],
 )
 def test_vpc_access_service_transport_auth_gdch_credentials(transport_class):
