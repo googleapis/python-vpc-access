@@ -3,7 +3,7 @@ Python Client for Virtual Private Cloud API
 
 |stable| |pypi| |versions|
 
-`Virtual Private Cloud API`_: 
+`Virtual Private Cloud API`_: provides networking functionality to Compute Engine virtual machine (VM) instances, Google Kubernetes Engine (GKE) containers, and the App Engine flexible environment. VPC provides networking for your cloud-based services that is global, scalable, and flexible.
 
 - `Client Library Documentation`_
 - `Product Documentation`_
